@@ -1,0 +1,10 @@
+flyai
+scipy
+numpy
+Pillow
+tqdm
+torchtoolbox
+torch==1.4.0
+torchvision==0.5.0
+efficientnet_pytorch==0.6.1
+PIL == 7.0.0
